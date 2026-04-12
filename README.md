@@ -5,6 +5,17 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🌍 Vue Générale — Europe & Maroc
+<img width="959" height="505" alt="App" src="https://github.com/user-attachments/assets/4e746cc9-35bc-4716-bceb-4a0562c58721" />
+
+
+
+### 🇲🇦 Vue Régionale — Maroc
+<img width="959" height="503" alt="App2" src="https://github.com/user-attachments/assets/a52472d4-3fcc-4bd9-bb82-6bce60421dac" />
+
+
 ## 📸 Aperçu
 
 ```

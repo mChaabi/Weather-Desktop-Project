@@ -210,6 +210,6 @@ API_URL=http://localhost:8080
 
 ## 👨‍💻 Auteur
 
-**Mohamed Chaabi** — [@ton-github](https://github.com/mChaabi)
+**Mohamed Chaabi** — (https://github.com/mChaabi/Weather-Desktop-Project/edit/main/README.md)
 
 ---
